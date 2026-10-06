@@ -1,4 +1,4 @@
-## Hola, soy Moisés Rodríguez 👋
+## Hola, soy Moisés Rodríguez 
 
 Desarrollador **Full-Stack** e Ingeniero en Ciencias de la Computación (PUCMM), en Santiago, República Dominicana.
 
@@ -13,7 +13,7 @@ Construyo y opero sistemas en producción de principio a fin: automatización 24
 - **DevOps y calidad:** Docker · Git / GitHub Actions · Linux / systemd · Playwright (E2E)
 - **IA:** LLMs con tool calling (Ollama, APIs compatibles con OpenAI)
 
-### 🚀 Proyectos destacados
+### Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -22,6 +22,6 @@ Construyo y opero sistemas en producción de principio a fin: automatización 24
 | [Proyecto_final_ACS](https://github.com/MERP0001/Proyecto_final_ACS) | Sistema de inventario con estrategia de pruebas completa (unitarias, BDD, E2E, estrés) y observabilidad | Spring Boot · Next.js · PostgreSQL · Docker · Cucumber · Playwright |
 | [pokedex-flutter-pucmm](https://github.com/MERP0001/pokedex-flutter-pucmm) | Pokédex móvil | Flutter · Dart |
 
-### 📫 Contacto
+### Contacto
 
 [LinkedIn](https://www.linkedin.com/in/mois%C3%A9s-rodr%C3%ADguez-pe%C3%B1a-615823441/) · zalokepena@gmail.com

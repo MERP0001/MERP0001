@@ -17,7 +17,7 @@ Construyo y opero sistemas en producción de principio a fin: automatización 24
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [LegalPartner](https://github.com/MERP0001/LegalPartner-_fronend) | Proyecto de grado: plataforma de análisis de contratos legales con IA | Next.js · TypeScript · Tailwind · Django |
+| [LegalPartner](https://github.com/MERP0001/LegalPartner-frontend) | Proyecto de grado: plataforma de análisis de contratos legales con IA | Next.js · TypeScript · Tailwind · Django |
 | [Gestor-Personal](https://github.com/MERP0001/Gestor-Personal) | Gestor de finanzas personales (monorepo) | TypeScript · NestJS · Prisma · PostgreSQL |
 | [Proyecto_final_ACS](https://github.com/MERP0001/Proyecto_final_ACS) | Sistema de inventario con estrategia de pruebas completa (unitarias, BDD, E2E, estrés) y observabilidad | Spring Boot · Next.js · PostgreSQL · Docker · Cucumber · Playwright |
 | [pokedex-flutter-pucmm](https://github.com/MERP0001/pokedex-flutter-pucmm) | Pokédex móvil | Flutter · Dart |
